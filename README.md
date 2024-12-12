@@ -1,1 +1,1 @@
-# mobile_net
+# mobile-net
